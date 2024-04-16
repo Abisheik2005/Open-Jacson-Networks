@@ -24,7 +24,7 @@ Visual components and Python
 
 
 ## Program
-
+```
 DEVELOPED BY : ABISHIK R
 REGISTER NO : 212223040005
 
@@ -65,7 +65,7 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
-
+```
 
 
 
